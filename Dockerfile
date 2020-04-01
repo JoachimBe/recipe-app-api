@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-MAINTAINER Joachim Bertrand
+LABEL Joachim Bertrand
 
 ENV PYTHONUNBUFFERED 1
 
